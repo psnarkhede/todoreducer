@@ -1,0 +1,76 @@
+.strike{
+    text-decoration: line-through;
+    width:70%;
+    text-align: left;
+    margin-left: 10px;
+    font-size: 18px;
+    color:silver;
+}
+
+.todolist{
+    border:1px solid black;
+    display:flex;
+    justify-content: left;
+    width:20%;
+    margin:auto;
+    margin-top: 20px;
+    padding:10px 10px;
+    align-items: center;
+}
+.check{
+    margin-left: 10px;
+}
+
+.checkbox{
+    width:20px;
+    height:20px;
+}
+
+.text{
+    width:70%;
+    text-align: left;
+    margin-left: 10px;
+    font-size: 18px;
+}
+
+.btn{
+    margin-left: 10px;
+}
+
+.delete{
+    padding: 5px 10px 5px 10px;
+    background-color: lightgreen;
+    border:1px solid lightgreen;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.inputbox{
+    margin-top: 20px;
+    display:flex;
+    gap:20px;
+    margin: auto;
+    justify-content: center;
+    margin-top: 20px;
+    width:22%;
+}
+
+.submit{
+    padding: 5px 10px 5px 10px;
+    background-color: crimson;
+    border:1px solid crimson;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    color:white;
+}
+
+.input{
+    border:2px solid black;
+    height:30px;
+    font-size: 18px;
+    width:70%;
+    border-radius: 10px;
+    padding-left:10px;
+}
